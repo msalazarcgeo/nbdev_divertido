@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "taller_nbdev_divertido"
+  site-url: "https://msalazarcgeo.github.io/taller_nbdev_divertido"
+  description: "Un repositorio mas divertido"
+  repo-branch: main
+  repo-url: "https://github.com/msalazarcgeo/taller_nbdev_divertido"
